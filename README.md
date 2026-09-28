@@ -1,8 +1,8 @@
 # qr-code-generator
 Lightweight open-source QR generation tool. No accounts, no paywalls, no tracking.
 
-[![App (Voilà)](https://img.shields.io/badge/launch-app-579ACA.svg?logo=jupyter)](https://mybinder.org/v2/gh/JosePedroMatos/qr-code-generator/main?urlpath=voila/render/app.ipynb)
-[![Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JosePedroMatos/qr-code-generator/main?urlpath=lab/tree/app.ipynb)
+[![App (Voilà)](https://img.shields.io/badge/launch-app-579ACA.svg?logo=jupyter)](https://mybinder.org/v2/gh/FORESIGHT-ULisboa/qr-code-generator/main?urlpath=voila/render/app.ipynb)
+[![Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FORESIGHT-ULisboa/qr-code-generator/main?urlpath=lab/tree/app.ipynb)
 
 - **launch app** — clean, code-free UI (Voilà).
 - **launch binder** — the same notebook in JupyterLab.
